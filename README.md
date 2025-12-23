@@ -1,1 +1,1 @@
-# SPSinger: Multi-Singer Singing Voice Synthesis with Short Reference Prompt
+# CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance
