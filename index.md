@@ -282,25 +282,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-01/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-01/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-01/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-01/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -314,25 +314,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-02/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-02/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-02/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-02/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -346,25 +346,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-03/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-03/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-03/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m1/demo-03/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -396,25 +396,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-01/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-01/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-01/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-01/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -428,25 +428,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-02/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-02/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-02/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-02/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -460,25 +460,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-03/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-03/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-03/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/m2/demo-03/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -509,25 +509,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-01/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-01/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-01/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-01/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -541,25 +541,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-02/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-02/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-02/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-02/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -573,25 +573,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-03/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-03/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-03/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f1/demo-03/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -623,25 +623,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-01/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-01/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-01/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-01/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -655,25 +655,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-02/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-02/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-02/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-02/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
@@ -687,25 +687,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-03/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-03/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-03/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 150px;">
+                <audio controls style="width: 160px;">
                   <source src="unseen/f2/demo-03/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
