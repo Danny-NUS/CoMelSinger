@@ -261,7 +261,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 </table>
 
 ## Synthesis Results on Unseen Singers
-<table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif; width: 100%; max-width: 100%;  border-collapse: collapse; table-layout: fixed;">
+<table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif; width: 100%; max-width: 100%;  border-collapse: collapse;">
     <tbody>
        <tr style="background-color: #EAF2E8;">
           <td colspan="5" style="text-align: center; padding: 6px 10px; font-weight: bold;">
@@ -282,25 +282,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls>
+                <audio controls style="width: 160px;>
                   <source src="unseen/m1/demo-01/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls>
+                <audio controls style="width: 160px;>
                   <source src="unseen/m1/demo-01/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls>
+                <audio controls style="width: 160px;>
                   <source src="unseen/m1/demo-01/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls>
+                <audio controls style="width: 160px;>
                   <source src="unseen/m1/demo-01/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
