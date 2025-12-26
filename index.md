@@ -24,7 +24,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
            <td><center>CoMelSinger</center></td>
         </tr>
 
-        <tr style="background-color: #e6f5ef;">
+        <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
             我是歌词。。。。。
           </td>
@@ -63,7 +63,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
             </td>
         </tr>
 
-        <tr style="background-color: #e6f5ef;">
+        <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
             我是歌词。。。。。
           </td>
@@ -102,7 +102,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
             </td>
         </tr>
 
-        <tr style="background-color: #e6f5ef;">
+        <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
             我是歌词。。。。。
           </td>
@@ -141,7 +141,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
             </td>
         </tr>
 
-        <tr style="background-color: #e6f5ef;">
+        <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
             我是歌词。。。。。
           </td>
@@ -180,7 +180,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
             </td>
         </tr>
 
-        <tr style="background-color: #e6f5ef;">
+        <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
             我是歌词。。。。。
           </td>
@@ -263,7 +263,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 ## Synthesis Results on Unseen Singers
 <table>
     <tbody>
-       <tr style="background-color: #F4A89A;">
+       <tr style="background-color: #FBEDEC;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
             Male Singer 1: Danny
           </td>
@@ -273,6 +273,12 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
             <td><center>MaskGCT</center></td>
             <td><center>Vevo 1.5</center></td>
            <td><center>CoMelSinger</center></td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
         </tr>
         <tr>
             <td>
