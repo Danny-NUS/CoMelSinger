@@ -264,7 +264,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 <table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
     <tbody>
        <tr style="background-color: #EAF2E8;">
-          <td colspan="5" style="text-align: justify; padding: 6px 10px; font-weight: 500;">
+          <td colspan="5" style="text-align: justify; padding: 6px 10px; font-weight: bold;">
             Male Singer 1: Danny
           </td>
         </tr>
@@ -373,3 +373,346 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
     </tbody>
         
 </table>
+
+
+<table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
+    <tbody>
+       <tr style="background-color: #EAF2E8;">
+          <td colspan="5" style="text-align: justify; padding: 6px 10px; font-weight: bold;">
+            Male Singer 2: Wei
+          </td>
+        </tr>
+        <tr>
+            <td><center>Reference</center></td>
+            <td><center>MaskGCT</center></td>
+            <td><center>Vevo 1.5</center></td>
+           <td><center>CoMelSinger</center></td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-01/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-01/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-01/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-01/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-02/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-02/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-02/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-02/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-03/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-03/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-03/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m2/demo-03/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+    </tbody>
+        
+</table>
+
+<table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
+    <tbody>
+       <tr style="background-color: #EAF2E8;">
+          <td colspan="5" style="text-align: justify; padding: 6px 10px; font-weight: bold;">
+            Female Singer 1: Sveta
+          </td>
+        </tr>
+        <tr>
+            <td><center>Reference</center></td>
+            <td><center>MaskGCT</center></td>
+            <td><center>Vevo 1.5</center></td>
+           <td><center>CoMelSinger</center></td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-01/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-01/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-01/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-01/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-02/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-02/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-02/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-02/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-03/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-03/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-03/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f1/demo-03/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+    </tbody>
+        
+</table>
+
+
+<table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
+    <tbody>
+       <tr style="background-color: #EAF2E8;">
+          <td colspan="5" style="text-align: justify; padding: 6px 10px; font-weight: bold;">
+            Female Singer 2: Mian-Mian
+          </td>
+        </tr>
+        <tr>
+            <td><center>Reference</center></td>
+            <td><center>MaskGCT</center></td>
+            <td><center>Vevo 1.5</center></td>
+           <td><center>CoMelSinger</center></td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-01/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-01/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-01/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-01/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-02/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-02/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-02/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-02/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-03/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-03/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-03/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/f2/demo-03/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+    </tbody>
+        
+</table>
+
+
