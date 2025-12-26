@@ -516,7 +516,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            刻 (F4) 在 (F4) 我 (F3) 心 (Eb4) 底 (D4) 的 (D4) 名 (C4) 字 (D4) | ke zai wo xin di de ming zi
           </td>
         </tr>
         <tr>
@@ -548,7 +548,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            刻 (D4) 骨 (C4) 铭 (Eb4) 心 (D4) 只 (C4) 有 (Bb3) 我 (C3) 自 (Bb3) 己 (F3) | ke gu ming xin zhi you wo zi ji
           </td>
         </tr>
         <tr>
@@ -580,7 +580,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            我 (A3) 们 (E4) 改 (E4) 变 (E4) 了 (D4) 态 (E4) 度 (D4) 接 (E4) 纳 (D4) 了 (E4) 对 (D4) 方 (D4) ｜ wo men gai bian le tai du jie na le dui fang
           </td>
         </tr>
         <tr>
