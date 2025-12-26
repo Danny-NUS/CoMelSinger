@@ -26,7 +26,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            雨会下雨会停这是不变的道理
+            雨会下雨会停这是不变的道理 | yu hui xia yu hui ting zhe shi bu bian de dao li
           </td>
         </tr>
 
@@ -65,7 +65,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            我听过荒芜变成热闹 | wo ting guo huang wu bian cheng re nao
           </td>
         </tr>
 
@@ -104,7 +104,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            他说就这样去流浪 | ta shuo jiu zhe yang qu liu lang
           </td>
         </tr>
 
@@ -143,7 +143,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            你献给我的西班牙馅饼 | ni xian gei wo de xi ban ya xian bing
           </td>
         </tr>
 
@@ -182,7 +182,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            眼看着灯光熄灭 | yan kan zhe deng guang xi mie
           </td>
         </tr>
 
@@ -221,7 +221,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            离别轻，暮然回首才被 | li bie qing, mu ran hui shou cai bei
           </td>
         </tr>
 
@@ -264,7 +264,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 <table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
     <tbody>
        <tr style="background-color: #EAF2E8;">
-          <td colspan="5" style="text-align: justify; padding: 6px 10px; font-weight: bold;">
+          <td colspan="5" style="text-align: center; padding: 6px 10px; font-weight: bold;">
             Male Singer 1: Danny
           </td>
         </tr>
@@ -378,7 +378,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 <table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
     <tbody>
        <tr style="background-color: #EAF2E8;">
-          <td colspan="5" style="text-align: justify; padding: 6px 10px; font-weight: bold;">
+          <td colspan="5" style="text-align: center; padding: 6px 10px; font-weight: bold;">
             Male Singer 2: Wei
           </td>
         </tr>
@@ -491,7 +491,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 <table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
     <tbody>
        <tr style="background-color: #EAF2E8;">
-          <td colspan="5" style="text-align: justify; padding: 6px 10px; font-weight: bold;">
+          <td colspan="5" style="text-align: center; padding: 6px 10px; font-weight: bold;">
             Female Singer 1: Sveta
           </td>
         </tr>
@@ -605,7 +605,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 <table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
     <tbody>
        <tr style="background-color: #EAF2E8;">
-          <td colspan="5" style="text-align: justify; padding: 6px 10px; font-weight: bold;">
+          <td colspan="5" style="text-align: center; padding: 6px 10px; font-weight: bold;">
             Female Singer 2: Mian-Mian
           </td>
         </tr>
