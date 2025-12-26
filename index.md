@@ -21,6 +21,13 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
             <td><center>Vevo 1.5</center></td>
            <td><center>CoMelSinger</center></td>
         </tr>
+
+        <tr style="background-color: #e6f5ef;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+
         <tr>
             <td>
                 <audio controls style="width: 200px;">
