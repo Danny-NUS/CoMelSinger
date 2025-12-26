@@ -108,7 +108,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            他说就这样去流浪 | ta shuo jiu zhe yang qu liu lang
+          眼看着灯光熄灭 | yan kan zhe deng guang xi mie
           </td>
         </tr>
 
@@ -147,7 +147,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            你献给我的西班牙馅饼 | ni xian gei wo de xi ban ya xian bing
+          他说就这样去流浪 | ta shuo jiu zhe yang qu liu lang
           </td>
         </tr>
 
@@ -186,7 +186,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            眼看着灯光熄灭 | yan kan zhe deng guang xi mie
+            你献给我的西班牙馅饼 | ni xian gei wo de xi ban ya xian bing
           </td>
         </tr>
 
