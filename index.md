@@ -1,4 +1,6 @@
-# CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance
+<h1 style="text-align: justify;">
+CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance
+</h1>
 ## Abstract of the paper
 
 <div style="text-align: justify; font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
