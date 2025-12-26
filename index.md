@@ -13,35 +13,42 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
 ## Synthesis Results on Seen Singers
 <table>
-    <thead>
-        <tr>
-            <th colspan="4">Synthesis on Seen Singers with Short Music Scores</th>
-        </tr>
-    </thead>
     <tbody>
        <tr>
-            <td nowrap><center>Singer Identity</center></td>
-            <td><center>GT mel + Vocoder</center></td>
+            <td nowrap><center>GT (Codec)</center></td>
             <td><center>Reference</center></td>
-            <td><center>SPSinger</center></td>
+            <td><center>MaskGCT</center></td>
+            <td><center>Vevo 1.5</center></td>
+           <td><center>CoMelSinger</center></td>
         </tr>
         <tr>
-            <td>Female 0</td>
             <td>
-                <audio controls>
-                  <source src="short_seen/female_0_short_seen/ground_truth.wav" type="audio/mpeg">
+                <audio controls style="width: 200px;">
+                  <source src="seen/demo-01/GT.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls>
-                  <source src="short_seen/female_0_short_seen/reference.wav" type="audio/mpeg">
+                <audio controls style="width: 200px;">
+                  <source src="seen/demo-01/Reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls>
-                  <source src="short_seen/female_0_short_seen/spsinger.wav" type="audio/mpeg">
+                <audio controls style="width: 200px;">
+                  <source src="seen/demo-01/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 200px;">
+                  <source src="seen/demo-01/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 200px;">
+                  <source src="seen/demo-01/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
