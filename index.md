@@ -306,6 +306,70 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
                 </audio>
             </td>
         </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m1/demo-02/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m1/demo-02/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m1/demo-02/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m1/demo-02/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr style="background-color: #F0EFF8;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m1/demo-03/reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m1/demo-03/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m1/demo-03/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 150px;">
+                  <source src="unseen/m1/demo-03/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
     </tbody>
         
 </table>
