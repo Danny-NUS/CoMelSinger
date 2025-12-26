@@ -1,6 +1,10 @@
 <h1 style="text-align: justify;">
 CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance
 </h1>
+
+<div style="text-align: justify; font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
+Paper Link: <a href="https://arxiv.org/pdf/2509.19883" target="_blank">Arxiv</a>
+</div>
 ## Abstract of the paper
 
 <div style="text-align: justify; font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
@@ -630,7 +634,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            一 (C#4) 寸 (D4) 一 (C#4) 寸 (D4) 填 (F#4) 满 (G3) 欲 (E3) 望 (D3) ｜ yi cun yi cun tian man yu wang
           </td>
         </tr>
         <tr>
@@ -662,7 +666,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            只 (Ab3) 是 (Bb3) 哪 (C4) 怕 (Bb3) 周 (C4) 围 (Bb3) 再 (C4) 多 (F4) 人 (C4) | zhi shi na pa zhou wei zai duo ren
           </td>
         </tr>
         <tr>
@@ -694,7 +698,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            所 (E4) 有 (F#4) 人 (E4) 都 (D4) 遗 (C#4) 忘 (B3) 了 (E4) 我 (C#4) | suo you ren dou yi wang le wo
           </td>
         </tr>
         <tr>
