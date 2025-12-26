@@ -263,7 +263,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 ## Synthesis Results on Unseen Singers
 <table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
     <tbody>
-       <tr style="background-color: #FBEDEC;">
+       <tr style="background-color: #EAF2E8;">
           <td colspan="5" style="text-align: justify; padding: 6px 10px; font-weight: 500;">
             Male Singer 1: Danny
           </td>
