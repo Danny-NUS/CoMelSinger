@@ -282,25 +282,25 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
         <tr>
             <td>
-                <audio controls style="width: 160px;">
+                <audio controls style="width: 165px;">
                   <source src="unseen/m1/demo-01/reference.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 160px;">
+                <audio controls style="width: 165px;">
                   <source src="unseen/m1/demo-01/maskgct.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 160px;">
+                <audio controls style="width: 165px;">
                   <source src="unseen/m1/demo-01/vevo.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
             </td>
             <td>
-                <audio controls style="width: 160px;">
+                <audio controls style="width: 165px;">
                   <source src="unseen/m1/demo-01/ours.wav" type="audio/mpeg">
                   Your browser does not support the audio tag.
                 </audio>
