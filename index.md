@@ -390,7 +390,9 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
 
         <tr style="background-color: #F0EFF8;">
-          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500; word-break: break-word;
+      overflow-wrap: break-word;
+      white-space: normal;">
             每 (D#3) 一 (F#3) 滴 (B3) 泪 (A#3) 水 (D#3)，都 (D#3) 向 (C#3) 你 (B2) 流 (B2) 淌 (C#3) 去 (D#3) | mei yi di lei shui, dou xiang ni liu tang qu
           </td>
         </tr>
@@ -422,7 +424,9 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
 
         <tr style="background-color: #F0EFF8;">
-          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500; word-break: break-word;
+      overflow-wrap: break-word;
+      white-space: normal;">
             现 (D3) 在 (F3) 我 (G3) 想 (Bb3) 问 (A3) 问 (D3) 你 (Bb3) | xian zai wo xiang wen wen ni
           </td>
         </tr>
@@ -454,7 +458,9 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
         </tr>
 
         <tr style="background-color: #F0EFF8;">
-          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500; word-break: break-word;
+      overflow-wrap: break-word;
+      white-space: normal;">
             烛 (C3) 光 (D3) 照 (F3) 亮 (G3) 了 (F3) 晚 (G3) 餐 (A3)，照 (A3) 不 (A3) 出 (G3) 个 (F3) 答 (G3) 案 (A3) ｜ zhu guang zhao liang le wan can, zhao bu chu ge da an
           </td>
         </tr>
