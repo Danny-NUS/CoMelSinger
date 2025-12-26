@@ -375,7 +375,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 </table>
 
 
-<table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
+<table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif; table-layout: fixed;">
     <tbody>
        <tr style="background-color: #EAF2E8;">
           <td colspan="5" style="text-align: center; padding: 6px 10px; font-weight: bold;">
