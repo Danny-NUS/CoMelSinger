@@ -62,6 +62,189 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
                 </audio>
             </td>
         </tr>
+
+        <tr style="background-color: #e6f5ef;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+
+        <tr>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-02/GT.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-02/Reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-02/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-02/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-02/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr style="background-color: #e6f5ef;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+
+        <tr>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-03/GT.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-03/Reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-03/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-03/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-03/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr style="background-color: #e6f5ef;">
+          <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
+            我是歌词。。。。。
+          </td>
+        </tr>
+
+        <tr>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-04/GT.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-04/Reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-04/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-04/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-04/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-05/GT.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-05/Reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-05/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-05/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-05/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-06/GT.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-06/Reference.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-06/maskgct.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-06/vevo.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+            <td>
+                <audio controls style="width: 130px;">
+                  <source src="seen/demo-06/ours.wav" type="audio/mpeg">
+                  Your browser does not support the audio tag.
+                </audio>
+            </td>
+        </tr>
     </tbody>
 </table>
 
