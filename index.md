@@ -2,7 +2,7 @@
 CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance
 </h1>
 
-<div style="text-align: justify; font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
+<div style="text-align: justify; font-family: 'Times New Roman', 'SimSun', '宋体', serif;  font-size: 18px;">
 Paper Link: <a href="https://arxiv.org/pdf/2509.19883" target="_blank">Arxiv</a>
 </div>
 ## Abstract of the paper
@@ -506,6 +506,12 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
 <table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
     <tbody>
+    <colgroup>
+        <col width="170">
+        <col width="170">
+        <col width="170">
+        <col width="170">
+      </colgroup>
        <tr style="background-color: #EAF2E8;">
           <td colspan="5" style="text-align: center; padding: 6px 10px; font-weight: bold;">
             Female Singer 1: Sveta
@@ -620,6 +626,12 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
 <table style="font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
     <tbody>
+        <colgroup>
+        <col width="170">
+        <col width="170">
+        <col width="170">
+        <col width="170">
+      </colgroup>
        <tr style="background-color: #EAF2E8;">
           <td colspan="5" style="text-align: center; padding: 6px 10px; font-weight: bold;">
             Female Singer 2: Mian-Mian
@@ -730,5 +742,15 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
     </tbody>
         
 </table>
+
+<div>
+    <center>
+      <font face="Palatino Linotype, Book Antiqua, Palatino, serif">
+        <i>
+          We sincerely thank all the singers for kindly providing the prompt recordings used in our demos.
+        </i>
+      </font>
+    </center>
+</div>
 
 
