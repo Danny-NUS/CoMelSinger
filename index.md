@@ -2,7 +2,7 @@
 CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance
 </h1>
 
-<div style="text-align: justify; font-family: 'Times New Roman', 'SimSun', '宋体', serif;  font-size: 18px;">
+<div style="text-align: justify; font-family: 'Times New Roman', 'SimSun', '宋体', serif;">
 Paper Link: <a href="https://arxiv.org/pdf/2509.19883" target="_blank">Arxiv</a>
 </div>
 ## Abstract of the paper
