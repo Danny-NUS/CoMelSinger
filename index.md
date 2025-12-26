@@ -277,7 +277,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            早 (G3) 些 (G3) 少 (A3) 年 (E3) 时 (G3) | zao xie shao nian shi
           </td>
         </tr>
         <tr>
@@ -309,7 +309,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            痛 (A2) 太 (C3) 美 (D3)，尽 (A2) 管 (C3) 再 (D3) 卑 (G2) 微 (F2) | tong tai mei, jin guan zai bei wei
           </td>
         </tr>
         <tr>
@@ -341,7 +341,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
 
         <tr style="background-color: #F0EFF8;">
           <td colspan="5" style="text-align: left; padding: 6px 10px; font-weight: 500;">
-            我是歌词。。。。。
+            多 (A2) 吹 (A2) 一 (B2) 些 (D3) 风 (G2) | duo chui yi xie feng
           </td>
         </tr>
         <tr>
