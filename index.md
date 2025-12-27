@@ -22,7 +22,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
     <tbody>
        <tr>
             <td nowrap><center>GT (Codec)</center></td>
-            <td><center>Reference</center></td>
+            <td><center>Reference (Codec)</center></td>
             <td><center>MaskGCT</center></td>
             <td><center>Vevo 1.5</center></td>
            <td><center>CoMelSinger</center></td>
@@ -273,7 +273,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
           </td>
         </tr>
         <tr>
-            <td><center>Reference</center></td>
+            <td><center>Reference (Codec)</center></td>
             <td><center>MaskGCT</center></td>
             <td><center>Vevo 1.5</center></td>
            <td><center>CoMelSinger</center></td>
@@ -393,7 +393,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
           </td>
         </tr>
         <tr>
-            <td><center>Reference</center></td>
+            <td><center>Reference (Codec)</center></td>
             <td><center>MaskGCT</center></td>
             <td><center>Vevo 1.5</center></td>
            <td><center>CoMelSinger</center></td>
@@ -518,7 +518,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
           </td>
         </tr>
         <tr>
-            <td><center>Reference</center></td>
+            <td><center>Reference (Codec)</center></td>
             <td><center>MaskGCT</center></td>
             <td><center>Vevo 1.5</center></td>
            <td><center>CoMelSinger</center></td>
@@ -638,7 +638,7 @@ Singing Voice Synthesis (SVS) aims to generate expressive vocal performances fro
           </td>
         </tr>
         <tr>
-            <td><center>Reference</center></td>
+            <td><center>Reference (Codec)</center></td>
             <td><center>MaskGCT</center></td>
             <td><center>Vevo 1.5</center></td>
            <td><center>CoMelSinger</center></td>
